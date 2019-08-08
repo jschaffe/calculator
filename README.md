@@ -1,3 +1,5 @@
+[![Build Status](https://jschaffemsft.visualstudio.com/jsScrum/_apis/build/status/jschaffe.calculator?branchName=master)](https://jschaffemsft.visualstudio.com/jsScrum/_build/latest?definitionId=12&branchName=master)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
